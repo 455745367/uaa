@@ -1,0 +1,4 @@
+CREATE COLLECTION `${bucket}`.`${scope}`.`user`;
+
+CREATE COLLECTION `${bucket}`.`${scope}`.`authority`;
+CREATE COLLECTION `${bucket}`.`${scope}`.`persistentToken`;
